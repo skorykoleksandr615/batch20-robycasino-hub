@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+_build_pages.py
+_pack_assets.py
+_i18n_build.py
+_check_i18n.py
+__pycache__/
